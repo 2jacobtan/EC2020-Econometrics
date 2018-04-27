@@ -1,4 +1,4 @@
-'''Guide p89 A5.9'''
+'''Guide p89 A5.8'''
 
 # Load pandas and statsmodels
 import pandas as pd
